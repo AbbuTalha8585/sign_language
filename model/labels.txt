@@ -1,0 +1,9 @@
+0  Drink
+1 Eat
+2  Goodbye
+3  Hello
+4  i love you
+5  No
+6  Please
+7  Thank you
+8  yes
