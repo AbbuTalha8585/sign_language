@@ -24,10 +24,4 @@ This project is a **Sign Language Recognition System** that translates sign lang
 - Python 3.x
 - pip
 - Virtual environment (optional but recommended)
-- Required dependencies (see `requirements.txt`)
-
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sign_language_recognition.git
-   cd sign_language_recognition
+  
